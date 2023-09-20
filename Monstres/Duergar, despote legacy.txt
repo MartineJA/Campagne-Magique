@@ -1,0 +1,44 @@
+Duergar, despote legacy
+[ Duergar Despot ]
+Humanoïde (nain) de taille M, loyal mauvais
+Classe d'armure 21 (armure naturelle)
+Points de vie 119 (14d8 + 56)
+Vitesse 7,50 m
+FOR
+20 (+5)DEX
+5 (-3)CON
+19 (+4)INT
+15 (+2)SAG
+14 (+2)CHA
+13 (+1)
+Jets de sauvegarde Con +8, Sag +6
+Immunités aux dégâts poison
+Immunités aux états charmé, épuisement, effrayé, paralysé, empoisonné
+Sens vision dans le noir 36 m, Perception passive 12
+Langues nain, commun des profondeurs
+Puissance 12 (8400 PX)
+Incantation innée (psionniques). La caractéristique d'incantation innée du duergar despote est l'Intelligence (jet de sauvegarde contre ses sorts DD 12).
+ Il peut lancer les sorts suivants, sans avoir besoin de composantes matérielles :
+
+À volonté : main de mage, illusion mineure
+1/jour chacun : contresort, foulée brumeuse, nuage nauséabond
+Résistance à la magie. Le duergar a un avantage aux jets de sauvegarde contre les sorts et autres effets magiques.
+
+Moteur psychique. Lorsque le duergar despote subit un coup critique ou est réduit à 0 point de vie,
+ de l'énergie psychique jaillit de lui pour infliger 14 (4d6) dégâts psychiques à toute créature dans un rayon de à 1,50 mètre autour de lui.
+
+Sensibilité au soleil. S'il est exposé à la lumière du soleil, le duergar a un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur la vue.
+
+Actions
+Attaques multiples. Le despote effectue deux attaques de Poing de fer et deux attaques de Piétinement.
+ Il peut remplacer jusqu'à quatre de ces attaques par des utilisations de son Jet de flammes.
+
+Poing de fer. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible.
+ Touché : 14 (2d8 + 5) dégâts contondants. Si la cible est une créature de taille G ou plus petite, elle doit réussir un jet de sauvegarde de Force DD 17 ou être lancée jusqu'à 9 mètres en ligne droite. La cible atterrit à terre puis subit 10 (3d6) dégâts contondants.
+
+Piétinement. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible.
+ Touché : 9 (1d8 + 5) dégâts contondants, ou 18 (3d8 + 5) à une cible à terre.
+
+Jet de flammes. Le duergar crache des flammes sur une ligne de 30 mêtres de long et 1,50 mètre de large.
+ Toute créature sur la ligne doit effectuer un jet de sauvegarde de Dextérité DD 16, subissant 18 (4d8) dégâts de feu en cas d'échec,
+ ou la moitié de ces dégâts en cas de réussite.

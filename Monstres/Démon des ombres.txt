@@ -1,0 +1,32 @@
+Démon des ombres
+[ Shadow Demon ]
+Fiélon (démon) de taille M, chaotique mauvais
+Classe d'armure 13
+Points de vie 66 (12d8 + 12)
+Vitesse 9 m, vol 9 m
+FOR
+1 (-5)DEX
+17 (+3)CON
+12 (+1)INT
+14 (+2)SAG
+13 (+1)CHA
+14 (+2)
+Jets de sauvegarde Dex +5 Cha +4
+Compétences Discrétion +7
+Vulnérabilités aux dégâts radiant
+Résistances aux dégâts acide, feu, nécrotique, tonnerre ; contondant, perforant et tranchant d'attaques non magiques
+Immunités aux dégâts froid, foudre, poison
+Immunités aux états épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé
+Sens vision dans le noir 36 m, Perception passive 11
+Langues abyssal, télépathie 36 m
+Puissance 4 (1100 PX)
+Déplacement intangible. Le démon peut se déplacer au travers d'autres créatures et objets comme s'ils étaient des terrains difficiles.
+ Le démon subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
+
+Sensibilité à la lumière. S'il est exposé à une lumière vive, le démon a un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur la vue.
+
+Discrétion dans les ombres. S'il se trouve dans des ténèbres ou est exposé à une lumière faible, le démon peut effectuer l'action Se cacher en utilisant une action bonus.
+
+Actions
+Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 10 (2d6 + 3) dégâts psychiques ou,
+ si le démon a un avantage à son jet d'attaque, 17 (4d6 + 3) dégâts psychiques.

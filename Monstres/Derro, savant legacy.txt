@@ -1,0 +1,21 @@
+Derro, savant legacy
+         Humanoïde (derro) de taille P, chaotique mauvais
+         Classe d'armure 13 (armure de cuir)
+         Points de vie 36 (8d6 + 8)
+Vitesse 9 m
+FOR
+9 (-1)DEX
+14 (+2)CON
+12 (+1)INT
+11 (+0)SAG
+5 (-3)CHA
+14 (+2)
+Compétences Discrétion +4
+Sens vision dans le noir 36 m, Perception passive 7
+Langues nain, commun des profondeurs
+Puissance 3 (700 PX)
+Résistance à la magie.
+Incantation.
+Sensibilité au soleil.
+Actions
+Bâton.

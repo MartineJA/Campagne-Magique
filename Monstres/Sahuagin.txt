@@ -1,0 +1,33 @@
+Sahuagin
+[ Sahuagin ]
+Humanoïde (sahuagin) de taille M, loyal mauvais
+Classe d'armure 12 (armure naturelle)
+Points de vie 22 (4d8 + 4)
+Vitesse 9 m, nage 12 m
+FOR
+13 (+1)DEX
+11 (+0)CON
+12 (+1)INT
+12 (+1)SAG
+13 (+1)CHA
+9 (-1)
+Compétences Perception +5
+Sens vision dans le noir 36 m, Perception passive 15
+Langues sahuagin
+Puissance 1/2 (100 PX)
+Frénésie sanguinaire. Le sahuagin a un avantage aux jets d'attaque au corps à corps contre une créature qui n'a pas tous ses points de vie.
+
+Amphibie limitée. Le sahuagin peut respirer sur terre ou dans l'eau, mais il a besoin d'être immergé au moins une fois toutes les 4 heures pour éviter de s'étouffer.
+
+Télépathie avec les requins. Le sahuagin peut prendre magiquement le contrôle de n'importe quel requin dans un rayon de 36 mètres autour de lui,
+ en utilisant une forme limitée de télépathie.
+
+Actions
+Attaques multiples. Le sahuagin effectue deux attaques : une de morsure et une avec ses griffes ou sa lance.
+
+Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants.
+
+Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts tranchants.
+
+Lance. Attaque au corps à corps ou à distance avec une arme : +3 au toucher, allonge 1,50 m ou portée 6/18 m, une cible.
+ Touché : 4 (1d6 + 1) dégâts perforants, ou 5 (1d8 + 1) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps.

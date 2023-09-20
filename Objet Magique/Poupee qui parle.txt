@@ -1,0 +1,6 @@
+Poupee qui parle
+	     Objet merveilleux, commun (nécessite un lien)
+         Lorsque cette poupée en peluche se trouve 1,50 mètre ou moins de vous, vous pouvez passer un repos court pour lui apprendre à dire jusqu'à six phrases,
+		 dont aucune ne peut dépasser six mots, et définir dans quelle condition prononcera chaque phrase. Vous pouvez remplacer d'anciennes phrases par de nouvelles.
+		 Quelle que soit la condition, celle-ci doit se produire à 1,50 mètre ou moins de la poupée pour la faire parler. Par exemple, chaque fois que quelqu'un prend la poupée,
+		 elle peut dire : « Je veux un bonbon ». Les phrases de la poupée sont perdues lorsque votre lien avec la poupée se termine.

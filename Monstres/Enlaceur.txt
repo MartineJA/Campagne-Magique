@@ -1,0 +1,36 @@
+Enlaceur
+[ Roper ]
+Monstruosité de taille G, neutre mauvais
+Classe d'armure 20 (armure naturelle)
+Points de vie 93 (11d10 + 33)
+Vitesse 3 m, escalade 3 m
+FOR
+18 (+4)DEX
+8 (-1)CON
+17 (+3)INT
+7 (-2)SAG
+16 (+3)CHA
+6 (-2)
+Compétences Discrétion +5, Perception +6
+Sens vision dans le noir 18 m, Perception passive 16
+Langues —
+Puissance 5 (1800 PX)
+Apparence trompeuse. Tant que l'enlaceur reste immobile, il ne peut être distingué d'une formation naturelle de caverne, comme une stalagmite.
+
+Filaments agrippants. L'enlaceur peut avoir jusqu'à 6 filaments à la fois.
+ Chaque filament peut être attaqué (CA 20 ; 10 points de vie ; immunité au poison et aux dégâts psychiques).
+ Détruire un filament n'inflige aucun dégât à l'enlaceur, qui peut faire sortir un filament de remplacement à son prochain tour.
+ Un filament peut également être rompu si une créature utilise son action pour effectuer un jet de Force DD 15 contre elle.
+
+Pattes d'araignée. L'enlaceur peut escalader des surfaces difficiles et être au plafond la tête en bas sans avoir besoin d'effectuer un jet de caractéristique.
+
+Actions
+Attaques multiples. L'enlaceur effectue quatre attaques avec ses filaments, utilise Embobiner, et effectue une attaque de morsure.
+
+Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 22 (4d8 + 4) dégâts perforants.
+
+Filament. Attaque au corps à corps avec une arme : +7 au toucher, allonge 15 m, une créature. Touché : La cible est agrippée (évasion DD 15).
+ Tant qu'elle est agrippée, la cible est entravée et a un désavantage aux jets de Force et aux jets de sauvegarde de Force,
+ et l'enlaceur ne peut plus utiliser le même filament sur une autre cible.
+
+Embobiner. L'enlaceur tire à lui sur 7,50 mètres chaque créature qu'il a agrippée.

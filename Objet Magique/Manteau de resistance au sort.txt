@@ -1,0 +1,3 @@
+Manteau de resistance au sorts
+	     Objet merveilleux, rare (nécessite un lien)
+         Vous avez un avantage à tous les jets de sauvegarde contre les sorts tant que vous portez cette cape.

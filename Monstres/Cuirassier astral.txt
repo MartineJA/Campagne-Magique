@@ -1,0 +1,34 @@
+Cuirassier astral
+[ Astral Dreadnought ]
+Monstruosité (titan) de taille Gig, sans alignement
+Classe d'armure 20 (armure naturelle)
+Points de vie 297 (17d20 + 119)
+Vitesse 4,50 m, vol 24 m (stationnaire)
+FOR
+28 (+9)DEX
+7 (-2)CON
+25 (+7)INT
+5 (-3)SAG
+14 (+2)CHA
+18 (+4)
+Jets de sauvegarde Dex +5, Sag +9
+Compétences Perception +9
+Résistances aux dégâts contondant, perforant et tranchant d'attaques non magiques
+Immunités aux états charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné, à terre, étourdi
+Sens vision dans le noir 36 m, Perception passive 19
+Langues —
+Puissance 21 (33000 PX)     Bonus de maîtrise +7
+Cône d'antimagie.
+Entité astrale.
+Donjon demi-planaire.
+Résistance légendaire (3/jour).
+Rompre le cordon argenté.
+Nature insolite.
+Actions
+Attaques multiples.
+Morsure.
+Griffes.
+Actions légendaires
+Griffes.
+Visite du Donjon (coûte 2 actions).
+Projection psychique (coûte 3 actions).

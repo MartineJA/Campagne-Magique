@@ -1,0 +1,25 @@
+Avatar de la mort
+[ Avatar of Death ]
+Mort-vivant de taille M, neutre mauvais
+Classe d'armure 20
+Points de vie la moitié du maximum de points de vie de son invocateur
+Vitesse 18 m, vol 18 m (stationnaire)
+FOR
+16 (+3)DEX
+16 (+3)CON
+16 (+3)INT
+16 (+3)SAG
+16 (+3)CHA
+16 (+3)
+Immunités aux dégâts nécrotique, poison
+Immunités aux états charmé, effrayé, paralysé, pétrifié, empoisonné, inconscient
+Sens vision dans le noir 18 mètres, vision véritable 18 mètres, Perception passive 13
+Langues toutes les langues connues par son invocateur
+Puissance -
+Déplacement intangible. L'avatar peut se déplacer au travers des autres créatures et objets comme s'ils étaient un simple terrain difficile.
+ Il subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
+
+Immunité au changement. L'avatar est immunisé aux capacités qui transforment en mort-vivant.
+
+Actions
+Faux moissonneuse. L'avatar balaye de sa faux une créature située à 1,50 mètre de lui, infligeant 7 (1d8 + 3) dégâts tranchants + 4 (1d8) dégâts nécrotiques.

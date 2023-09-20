@@ -1,0 +1,32 @@
+Drow
+[ Drow ]
+Humanoïde (elfe) de taille M, neutre mauvais
+Classe d'armure 15 (chemise de mailles)
+Points de vie 13 (3d8)
+Vitesse 9 m
+FOR
+10 (+0)DEX
+14 (+2)CON
+10 (+0)INT
+11 (+0)SAG
+11 (+0)CHA
+12 (+1)
+Compétences Discrétion +4, Perception +2
+Sens vision dans le noir 36 m, Perception passive 12
+Langues elfique, commun des profondeurs
+Puissance 1/4 (50 PX)
+Ascendance féerique. Le drow a un avantage aux jets de sauvegarde contre les effets de charme, et la magie ne peut pas l'endormir.
+
+Incantation innée. La caractéristique d'incantation innée du drow est le Charisme (jet de sauvegarde contre ses sorts DD 11).
+ Il peut lancer les sorts suivants de manière innée, sans avoir besoin de composantes matérielles :
+
+À volonté : lumières dansantes
+1/jour chacun : ténèbres, lueurs féeriques
+Sensibilité au soleil. S'il est exposé à la lumière du soleil, le drow a un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur la vue.
+
+Actions
+Épée courte. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.
+
+Arbalète de poing. Attaque à distance avec une arme : +4 au toucher, portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants,
+ et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou être empoisonnée pendant 1 heure. Si le jet de sauvegarde échoue de 5 ou plus,
+ la cible est également inconsciente tant qu'elle est empoisonnée de la sorte. La cible se réveille si elle subit des dégâts ou si une autre créature utilise son action pour la secouer.
