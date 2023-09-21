@@ -1,0 +1,13 @@
+Cage de force
+[ Forcecage ]
+niveau 7 - évocation
+Temps d'incantation : 1 action
+Portée : 30 mètres
+Composantes : V, S, M (de la poussière de rubis valant au moins 1500 po)
+Durée : 1 heure
+Une prison en forme de cube immobile et invisible, composée de force magique, apparaît autour d'une zone que vous choisissez et à portée. La prison peut être une cage ou une boîte solide, selon votre choix.
+Une prison prenant la forme d'une cage peut faire jusqu'à 6 mètres de côté et est constituée de barreaux de 1,25 cm de diamètre et espacés de 1,25 cm également.
+Une prison prenant la forme d'une boîte peut faire jusqu'à 3 mètres de côté, créant une barrière solide qui empêche la matière de passer au travers et bloque les sorts lancés de l'intérieur vers l'extérieur de la zone, et vice versa.
+Lorsque vous lancez ce sort, toute créature qui se trouve complètement dans la zone de la cage est piégée. Les créatures qui ne sont que partiellement dans la zone, ou celles qui sont trop larges pour tenir dans la prison, sont repoussées depuis le centre de la zone jusqu'à ce qu'elles en soient complètement sorties.
+Une créature à l'intérieur de la cage ne peut pas la quitter par des moyens non magiques. Si la créature tente d'utiliser la téléportation ou le voyage planaire pour sortir de la cage, elle doit d'abords effectuer un jet de sauvegarde de Charisme. En cas de réussite, la créature peut utiliser cette magie pour sortir de la cage. En cas d'échec, la créature ne peut sortir de la cage et a dépensé cette utilisation de sort ou d'effet. La cage peut également s'étendre dans le plan éthéré pour bloquer les voyages éthérés.
+Ce sort ne peut pas être dissipé avec le sort dissipation de la magie.

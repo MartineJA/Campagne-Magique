@@ -1,0 +1,8 @@
+Don des langues
+[ Tongues ]
+niveau 3 - divination
+Temps d'incantation : 1 action
+Portée : contact
+Composantes : V, M (une petite pyramide à degrés en argile)
+Durée : 1 heure
+Ce sort confère à la créature que vous touchez la capacité de comprendre toutes les langues parlées qu'elle entend. De plus, lorsque la cible parle, toutes les créatures qui connaissent au moins un langage, et peuvent l'entendre, comprennent ce qu'elle dit.

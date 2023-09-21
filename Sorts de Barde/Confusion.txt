@@ -1,0 +1,17 @@
+Confusion
+[ Confusion ]
+niveau 4 - enchantement
+Temps d'incantation : 1 action
+Portée : 27 mètres
+Composantes : V, S, M (trois coquilles de noix)
+Durée : concentration, jusqu'à 1 minute
+Ce sort assaille et tord les esprits des créatures, générant des illusions et provoquant des actions incontrôlées. Chaque créature dans une sphère de 3 mètres de rayon centrée sur un point choisi dans la portée du sort doit réussir un jet de sauvegarde de Sagesse, sans quoi elle sera affectée par le sort.
+Une cible affectée ne peut réagir et elle doit lancer 1d10 au début de chacun de ses tours pour déterminer son comportement pour ce tour.
+d10	Comportement
+1	La créature emploie tout son mouvement pour se déplacer de façon aléatoire. Pour déterminer la direction, lancez 1d8 et assignez une direction à chaque face. La créature ne prend pas d'action pour ce tour.
+2-6	La créature ne se déplace pas et elle ne prend pas d'action pour ce tour.
+7-8	La créature prend son action pour faire une attaque au corps à corps contre une créature à sa portée, déterminée de façon aléatoire. Si aucune créature n'est à sa portée, la créature ne fait rien pour ce tour.
+9-10	La créature peut agir et se déplacer normalement.
+
+À la fin de chacun de ses tours, une créature affectée peut faire un jet de sauvegarde de Sagesse. En cas de réussite, l'effet du sort prend fin pour cette cible.
+Aux niveaux supérieurs. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, le rayon de la sphère augmente de 1,50 mètre pour chaque niveau d'emplacement au-delà du niveau 4.

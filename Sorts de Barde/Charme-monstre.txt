@@ -1,0 +1,9 @@
+Charme-monstre
+[ Charm Monster ]
+niveau 4 - enchantement
+Temps d'incantation : 1 action
+Portée : 9 mètres
+Composantes : V, S
+Durée : 1 heure
+Vous essayez de charmer une créature que vous pouvez voir à portée. Celle-ci doit effectuer un jet de sauvegarde de Sagesse, avec un avantage si vous ou vos compagnons la combattez. En cas d'échec, vous la charmez jusqu'à la fin du sort ou jusqu'à ce que vous ou vos compagnons lui fassiez quelque chose de nuisible. La créature charmée est amicale avec vous. Lorsque le sort prend fin, la créature sait que vous l'avez charmée.
+Aux niveaux supérieurs. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 4. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.
