@@ -1,0 +1,25 @@
+Drakéide de Bahamut
+[ Dragonborn of Bahamut ]
+Humanoïde de taille G, typiquement loyal bon
+Classe d'armure 18 (demi-plate, bouclier)
+Points de vie 93 (11d8 + 44)
+Vitesse 9 m, vol 9 m
+FOR
+19 (+4)DEX
+13 (+1)CON
+18 (+4)INT
+12 (+1)SAG
+14 (+2)CHA
+17 (+3)
+Jets de sauvegarde Con +7, Int +4, Sag +5, Cha +6
+Compétences Athlétisme +7, Perception +5, Persuasion +6
+Immunités aux états effrayé
+Sens Perception passive 15
+Langues commun, draconique
+Puissance 8 (3900 PX)     Bonus de maîtrise +3
+Résistance légendaire (1/jour).
+Actions
+Attaques multiples.
+Épée longue.
+Contact guérisseur (1/jour).
+Souffle radiant (Recharge 6).
