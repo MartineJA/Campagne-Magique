@@ -4,5 +4,5 @@ Arme (masse d'armes), rare
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique.
  Ce bonus passe à +3 quand vous l'utilisez contre un artificiel.
 Quand vous obtenez un 20 naturel sur un jet d'attaque avec cette arme,
- la cible subit 7 dégâts contondants supplémentaires, ou 14 dégâts contondants si c'est un artificiel. 
+ la cible subit 3 dégâts contondants supplémentaires, ou 14 dégâts contondants si c'est un artificiel. 
  Si un artificiel a 25 points de vie ou moins après avoir subi ces dégâts, elle est détruite.
