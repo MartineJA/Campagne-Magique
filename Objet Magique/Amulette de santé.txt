@@ -1,4 +1,4 @@
-Amulette de santé
+Amulette de santé du futur
 	     Objet merveilleux, peu commun
          Vous êtes immunisé contre toutes les maladies tant que vous portez ce pendentif.
 		 Si vous êtes déjà infecté par une maladie, les effets de celle-ci disparaissent tant que vous portez le pendentif.

@@ -1,5 +1,5 @@
 Immobilisation de monstre
-[ Hold Monster ]
+[ Hold Monster of the futur ]
 niveau 5 - enchantement
 Temps d'incantation : 1 action
 Portée : 27 mètres

@@ -1,4 +1,4 @@
- Masse d'aneantissement
+ Masse d'aneantissement du futur
 	     Arme (masse d'armes), rare (nécessite un lien)
          Quand vous frappez un fiélon ou un mort-vivant avec cette arme magique, cette créature subit 2d6 dégâts radiants supplémentaires.
          Si elle a 25 points de vie ou moins après avoir subi ces dégâts elle doit réussir un jet de sauvegarde de Sagesse DD 15 ou être détruite.

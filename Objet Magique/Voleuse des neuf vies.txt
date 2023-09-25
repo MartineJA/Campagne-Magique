@@ -1,5 +1,5 @@
-Voleuse des neuf vies
-[ Nine Lives Stealer ] [ Voleuse de vie ]
+Voleuse des neuf vies du futur
+[ Nine Lives Stealer of the futur ] [ Voleuse de vie ]
 Arme (toute épée), très rare (nécessite un lien)
 Vous gagnez un bonus de +2 aux jets d'attaque et de dégâts effectués avec cette arme magique.
 L'épée possède 1d8 + 1 charges. Quand vous obtenez un coup critique contre une créature à qui il reste moins de 100 points de vies,

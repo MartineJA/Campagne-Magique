@@ -1,4 +1,4 @@
-Armure de resistance
+Armure de resistance du futur
 	     Armure (légère intermédiaire ou lourde), rare (nécessite un lien)
          Vous avez la résistance à un type de dégâts tant que vous êtes équipé de cette armure.
 		 Le MD choisit le type de dégâts ou le détermine aléatoirement grâce à la table ci-dessous.
