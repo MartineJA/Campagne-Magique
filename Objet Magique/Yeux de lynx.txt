@@ -5,3 +5,4 @@ Ces lentilles de cristal se placent sur les yeux. Tant que vous en êtes équip�
  vous avez un avantage aux jets de Sagesse (Perception) basés sur la vue.
  Dans des conditions de bonne visibilité, vous pouvez même apercevoir les détails de créatures et d'objets extrêmement éloignés,
  comme s'ils étaient situés à 60 cm de vous.
+Dans des conditions de mauvaise visibilité, vous voyez comme en plein jour. 

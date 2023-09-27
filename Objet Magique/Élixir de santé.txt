@@ -3,3 +3,4 @@
 Potion, rare
 Lorsque vous buvez cette potion, elle guérit de toute maladie qui vous afflige,
  et supprime les états aveuglé, assourdi, paralysé et empoisonné. Le liquide rouge clair possède de minuscules bulles de lumière.
+Et dans ces bulles de lumières, on peut apercevoir les vies passées des Arachnides créatrices de l'univers. 

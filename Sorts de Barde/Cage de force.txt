@@ -11,3 +11,5 @@ Une prison prenant la forme d'une boîte peut faire jusqu'à 3 mètres de côté
 Lorsque vous lancez ce sort, toute créature qui se trouve complètement dans la zone de la cage est piégée. Les créatures qui ne sont que partiellement dans la zone, ou celles qui sont trop larges pour tenir dans la prison, sont repoussées depuis le centre de la zone jusqu'à ce qu'elles en soient complètement sorties.
 Une créature à l'intérieur de la cage ne peut pas la quitter par des moyens non magiques. Si la créature tente d'utiliser la téléportation ou le voyage planaire pour sortir de la cage, elle doit d'abords effectuer un jet de sauvegarde de Charisme. En cas de réussite, la créature peut utiliser cette magie pour sortir de la cage. En cas d'échec, la créature ne peut sortir de la cage et a dépensé cette utilisation de sort ou d'effet. La cage peut également s'étendre dans le plan éthéré pour bloquer les voyages éthérés.
 Ce sort ne peut pas être dissipé avec le sort dissipation de la magie.
+
+Et d'ailleurs, si quelqu'un est touché par ce sort alors que ses points de vie sont à -50%, le décès du perso est immédiat. 
