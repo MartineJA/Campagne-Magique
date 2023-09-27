@@ -3,3 +3,5 @@ Fers de rapidité
 Objet merveilleux, rare
 Ces fers à cheval se trouvent par lot de quatre. Tant que les quatre fers sont fixés aux sabots d'un cheval ou d'une créature similaire,
  ils augmentent la vitesse de déplacement de la créature de 9 mètres.
+
+S'ils sont lancés, ils se déplacent tels un boomerang, mais attention aux dégâts s'ils vous retombent dessus (1d6 pour déterminer la chance)
